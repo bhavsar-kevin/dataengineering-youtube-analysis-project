@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 ## Architecture Diagram
 <img src="architecture.jpeg">
 
-## Credit: https://github.com/bhavsar-kevin/dataengineering-youtube-analysis-project
+## Credit: [https://github.com/bhavsar-kevin/dataengineering-youtube-analysis-project](https://github.com/darshilparmar/dataengineering-youtube-analysis-project)https://github.com/darshilparmar/dataengineering-youtube-analysis-project
 
 
 
